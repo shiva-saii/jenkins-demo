@@ -1,4 +1,1 @@
-print('hello world')
-print('hello jenkins')
-print('hello jenkins')
-print('new message')
+print('first python file')
